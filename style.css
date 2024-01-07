@@ -1,0 +1,62 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    font-size:48pt;
+    color: rgb(4, 117, 182);
+    font-weight: bolder;
+    font-display: inherit;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    font-size:32pt;
+    color: rgb(4, 117, 182);
+    font-weight: bolder;
+    font-display: inherit;
+    text-align: center;
+    text-decoration: underline;
+}
+th,
+td{
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    height: 50px;
+    font-size: 10pt;
+    text-align: center;
+    padding: 0px 10px;
+    border-spacing: 2px;
+    text-wrap: wrap;
+    color: rgb(8, 8, 8);
+    font-weight: bold;
+}
+.A{
+    background-color:#376F70;
+    color: cyan;
+}
+.B{
+    background-color: rgb(13, 75, 75);
+    color: aliceblue;
+}
+.C{
+    background-color: rgb(95, 105, 160);
+}
+.D{
+    background-color: rgb(31, 79, 133);
+    color: aliceblue;
+}
+.E{
+    background-color: rgb(50, 196, 176);
+}
+.AI{
+    background-color: rgb(80, 138, 73);
+    color: aliceblue;
+}
+.CCO{
+    background-color: rgb(150, 97, 145);
+    color: antiquewhite;
+}
+.free{
+    background-color: cadetblue;
+}
